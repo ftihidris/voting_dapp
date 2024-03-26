@@ -30,7 +30,7 @@ dependencies:
   flutter:
     sdk: flutter
   web3dart: ^2.3.3
-  http:
+  http: 
 
 
   # The following adds the Cupertino Icons font to your application.

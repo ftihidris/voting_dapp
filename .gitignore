@@ -44,3 +44,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+android/android/app/build.gradle
+android/android/settings.gradle
+android/android/build.gradle
+android/app/src/google-services.json
+pubspec.yaml
+android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+android/app/src/main/res/values/styles.xml
